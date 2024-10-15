@@ -1,0 +1,30 @@
+¿Cuál es la capital de Australia?;1. Sídney2. Melbourne;3. Canberra;4. Brisbane
+¿Cuál es el río más largo del mundo?;1. Amazonas;2. Nilo;3. Yangtsé;4. Brisbane
+¿Cuál es la montaña más alta del mundo?;1. Mont Blanc;2. Monte Fuji;3. Monte Everest;4. Kilimanjaro
+¿En qué continente se encuentra Nigeria?;1. África;2. Asia;3. América del Sur;4. Europa
+¿Cuál es el lago más grande de África?;1. Lago Victoria;2. Lago Tanganica;3. Lago Malawi;4. Lago Turkana
+¿Cuál es la ciudad más poblada del mundo?;1. Tokio;2. Nueva York;3. Shanghái;4. Bombay
+¿Cuál es el desierto más grande del mundo?;1. Atacama;2. Sahara;3. Kalahari;4. Gobi
+¿En qué océano se encuentra la isla de Madagascar?;1. Atlántico;2. Índico;3. Pacífico;4. Ártico
+¿Qué país limita al norte con Estados Unidos?;1. México;2. Canadá;3. Rusia;4. Brasil
+¿Cuál es la cordillera más larga del mundo?;1. Montañas Rocosas;2. Alpes;3. Himalaya;4. Andes
+¿Cuál es el mar más grande del mundo?;1. Mar Mediterráneo;2. Mar Caribe;3. Mar de China Meridional;4. Mar de Aral
+¿Cuál es el país más grande en términos de área territorial?;1. Rusia;2. Canadá;3. China;4. Estados Unidos
+¿Cuál es el país más pequeño del mundo?;1. Mónaco;2. San Marino;3. Vaticano;4. Liechtenstein
+¿En qué continente se encuentra el río Congo?;1. América del Sur;2. África;3. Asia;4. Europa
+¿Cuál es la ciudad conocida como "La Ciudad de los Rascacielos"?;1. Chicago;2. Hong Kong;3. Nueva York;4. Dubái
+¿En qué continente se encuentra el lago Baikal?;1. África;2. Europa;3. Asia;4. América del Norte
+¿Cuál es el país conocido como "La Tierra del Sol Naciente"?;1. China;2. Corea del Sur;3. Japón;4. Australia
+¿En qué océano se encuentra la isla de Pascua?;1. Océano Atlántico;2. Océano Índico;3. Océano Pacífico;4. Océano Ártico
+¿En qué continente se encuentra Bolivia?;1. África;2. América del Sur;3. Asia;4. Europa
+¿Cuál es el desierto más grande de América del Norte?;1. Desierto de Sonora;2. Gran Desierto de Altar;3. Desierto de Mojave;4. Gran Cuenca
+¿Cuál de las siguientes cataratas es la más grande en términos de caudal de agua?;1. Cataratas del Iguazú;2. Cataratas Victoria;3. Cataratas del Niágara;4. Cataratas del Ángel
+¿Cuál es la montaña más alta de América del Norte?;1. Pico McKinley;2. Pico Logan;3. Montaña Rainier;4. Pico Elbert
+¿Cuál de los siguientes países forma parte de la Península Escandinava?;1. Finlandia;2. Dinamarca;3. Suecia;4. Estonia
+¿Cuál de los siguientes ríos es uno de los principales afluentes del río Amazonas?;1. Río Paraná;2. Río Orinoco;3. Río Uruguay;4. Río Madeira
+¿Cuál es el país que se encuentra en la intersección de los continentes asiático y europeo?;1. Turquía;2. Irán;3. Rusia;4. Kazajistán
+¿Es Argentina el país más grande de América del Sur?;1. SÍ;2. NO
+¿El ecuador atraviesa Indonesia?;1. SÍ;2. NO
+Groenlandia es una isla independiente¿?;1. SÍ;2. NO
+¿Sídney es la capital de Australia?;1. SÍ;2. NO
+¿India limita con Rusia?;1. SÍ;2. NO

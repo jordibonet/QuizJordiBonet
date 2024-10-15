@@ -1,0 +1,30 @@
+¿Cuál de los siguientes jugadores ganó ek Balón de Oro en 2022?;1. Lionel Messi;2. Cristiano Ronaldo;3. Neymar;4. Kevin De Bruyne
+¿Cuál es el equipo de la NBA con más títulos de campeonato?;1. Los Angeles Lakers;2. Chicago Bulls;3. Boston Celtics;4. Golden State Warrior
+¿Quién tiene el récord de más títulos de Grand Slam en la historia del tenis masculino?;1. Roger Federer;2. Rafael Nadal;3. Novak Djokovic;4. Pete Sampras
+¿Cuál de los siguientes torneos de golf es uno de los cuatro torneos mayores?;1. Ryder Cup;2. The Player Championship;3. Masters de Augusta;4. Open Británico
+¿Quién es el piloto con más campeonatos mundiales en la historia de la Fórmula 1?;1. Sebastian Vettel;2. Michael Schumacher;3. Ayrton Senna;4. Lewis Hamilton
+¿Cuál es la distancia de una maratón olímpica?;1. 26.2 millas;2. 13.1 millas;3. 10 kilómetros;4. 42.195 kilómetros
+¿Qué país ha ganado más Tours de Francia en la historia?;1. Italia;2. España;3. Francia;4. Estados Unidos
+¿Cuántos jugadores componen un equipo de béisbol en el campo?;1. 9;2. 10;3. 11;4. 12
+¿Cuál es el estilo de natación en el que los nadadores están boca arriba y usan una patada de espalda?;1. Crol;2. Pecho;3. Mariposa;4. Espalda
+¿Quién es considerado el mejor boxeador libra por libra en la actualidad?;1. Canelo Álvarez;2. Tyson Fury;3. Terence Crawford;4. Manny Pacquiao
+¿En qué país se originó el rugby?;1. Inglaterra;2. Australia;3. Nueva Zelanda;4. Sudáfrica
+¿Cuántos jugadores hay en un equipo de voleibol en la cancha al mismo tiempo?;1. 5;2. 6;3. 7;4. 8
+¿Cuál es el movimiento característico del caballo en el ajedrez?;1. En diagonal;2. En L;3. En línea recta;4. En círculo
+¿Cuál es el nombre del maillot que lleva el líder en la clasificación general del Tour de Francia?;1. Amarillo;2. Rojo;3. Verde;4. Blanco
+¿En qué año se incluyó la natación sincronizada en los Juegos Olímpicos?;1. 1984;2. 1992;3. 2000;4. 2008
+¿Cuál es el evento de esquí alpino que combina descenso, slalom gigante, slalom y super G?;1. Supercombinada;2. Slalom combinado;3. Megaeslalon;4. Cuádruple
+¿Cuál es el nombre de la carrera que forma parte de la Triple Corona en el hipismo de Estados Unidos?;1. Belmont Stakes;2. Kentucky Derby;3. Preakness Stakes;4. Bredder's Cup
+¿Cuántos puntos vale un touchdown en el fútbol americano?;1. 3;2. 6;3. 7;4. 10
+¿Qué aparato utiliza una gimnasta para realizar rutinas de salto y acrobacias?;1. Barras paralelas;2. Piso;3. Barra de equilibrio;4. Salto de potro
+¿Cuántos puntos necesita un jugador para ganar un set en el bádminton?;1. 15;2. 21;3. 25;4. 30
+¿Cuál es la máxima categoría de carreras de motocicletas de velocidad?;1. Moto2;2. Moto3;3. MotoGP;4. Superbike
+¿Cuántos jugadores hay en un equipo de hockey sobre hielo en la pista durante el juego?;1. 5;2. 6;3. 7;4. 8
+¿Cuál es el estilo de natación conocido por ser el más rápido?;1. Espalda;2. Crol;3. Mariposa;4. Pecho
+¿En qué país se juega el torneo de golf conocido como The Open Championship?;1. Estados Unidos;2. Inglaterra;3. Escocia;4. Australia
+¿Cuál es el récord mundial masculino de los 100 metros lisos?;1. 9.58 segundos;2. 9.63 segundos;3. 9.69 segundos;4. 9.79 segundos
+¿la Copa Mundial de la FIFA se celbra cada cuatro años?;1. SÍ;2. NO
+¿La NBA permite el uso de jugadores de menos de 18 años directamente desde la escuela secundaria?;1. SÍ;2. NO
+¿El salto con garrocha es una disciplina del lanzamiento de atletismo?;1. SÍ;2. NO
+¿El Super Bowl es el evento más visto en la televisión estadounidense cada año?;1. SÍ;2. NO
+¿Usain Bolt posee el récord mundial en los 200 metros lisos?;1. SÍ;2. NO

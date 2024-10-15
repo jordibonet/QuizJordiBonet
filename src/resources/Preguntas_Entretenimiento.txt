@@ -1,0 +1,30 @@
+¿Quién interpretó el papel principal en la película "Forrest Gump"?;1. Tom Hanks;2. Leonardo DiCaprio;3. Johnny Deep;4. Brad Pitt
+¿Cuál es el álbum más vendido de todos los tiempos?;1. "Thriller" - Michael Jackson";2. "The Dark Side of the Moon" - Pink Floyd;3. "Back in Black" - AC/DC;4. "Abbey Road" - The Beatles
+En la serie "Friends", ¿cuál es el trabajo de Ross Geller?;1. Arquitecto;2. Chef;3. Paleontólogo;4. Periodista
+¿Quién escribió la saga de libros "Harry Potter"?;1. Stephen King;2. George R.R. Martin;3. Suzanne Collins;4. J.K. Rowling
+¿Quién escribió la novela de terror clásica "Drácula"?;1. Mary Shelly;2. Bram Stoker;3. Edgar Allan Poe;4. H.P. Lovecraft
+¿Cuál es el nombre completo de la cantante conocida como Lady Gaga?;1. Stefani Joanne Angelina Germanotta;2. Katheryn Elizabeth Hudson;3. Robyn Rihanna Fenty;4. Alicia Beth Moore
+¿En qué ciudad se desarrolla la serie de televisión "Breaking Bad"?;1. Los Angeles;2. Albuquerque;3. Miami;4. New York
+¿Qué banda británica lanzó el álbum "The Wall" en 1979?;1. The Rolling Stones;2. Pink Floyd;3. The Beatles;4. Led Zeppelin
+En la serie "Game of Thrones", ¿quién es conocido como "El Inmortal"?;1. Jon Snow;2. Daenerys Targaryen;3. Arya Stark;4. Jaime Lannister
+¿En qué película Christopher Nolan explora la manipulación del tiempo de manera compleja?;1. Inception;2. Interstellar;3. The Dark Knight;4. Dunkirk
+¿Qué serie de televisión sigue las vidas de los empleados de la oficina de Dunder Mifflin?;1. Parks and Recreation;2. Brooklyn Nine-Nine;3. How I Met Your Mother;4. The Office
+¿Quién escribió la novela de ciencia ficción "Dune"?;1. Isaac Asimov;2. Arthur C. Clarke;3. Philip K. Dick;4. Frank Herbert;
+¿En qué año se estrenó la película animada "Toy Story" de Pixar?;1. 1995;2. 1998;3. 2001;4. 2004
+¿En qué serie de televisión el personaje Walter White cocina metanfetaminas?;1. Breaking Bad;2. The Sopranos;3. The Wire;4. Narcos
+¿Qué autor escribió la serie de libros "The Chronicles of Narnia"?;1. J.R.R. Tolkien;2. C.S. Lewis;3. J.K. Rowling;4. George R.R. Martin
+¿Cuál es la película ganadora del Oscar a la Mejor Película en 2020?;1. 1917;2. Parasite;3. Joker;4. Once Upon a Time in Hollywood
+¿Qué banda lanzó el álbum "Rumours" en 1977?;1. ABBA;2. The Eagles;3. Queen;4. Fleetwood Mac
+¿Quién interpretó a Jack Dawson en la película "Titanic"?;1. Johnny Deep;2. Brad Pitt;3. Matt Damon;4. Leonardo DiCaprio
+¿Quien ganó OT 2017?;1. Aitana;2. Ana Guerra;3. Amaia Romero;4. Nia
+¿Quién interpretó el papel de Tony Stark / Iron Man en el Universo Cinematográfico de Marvel?;1. Chris Evans;2. Robert Downey Jr.;3. Chris Hemsworth;4. Mark Ruffalo
+¿Cuál de estos artistas es conocido como "El Rey del Pop"?;1. Justin Bieber;2. Bruno Mars;3. Michael Jackson;4. Ed Sheeran
+¿Qué escritor es famoso por sus novelas de detectives protagonizadas por Hercule Poirot?;1. Agatha Christie;2. Arthur Conan Doyle;3. Raymond Chandler;4. Dashiell Hemmett
+¿Cuál de estos álbumes es de la banda The Rolling Stones?;1. "Abbey Road";2. "Dark Side of the Moon";3. "Led Zeppelin IV";4. "Sticky Fingers"
+En la serie "Breaking Bad", ¿cuál es el apodo de Walter White?;1. Heisenberg;2. The Cook;3. Mr. Blue;4. The Kingpin
+¿Qué libro es el primero de la serie "Canción de hielo y fuego" de George R.R. Martin?;1. Choque de Reyes;2. Juego de Tronos;3. Tormenta de Espadas;4. Festín de Cuervos
+¿El Polo Norte es el lugar más frío de la Tierra?;1. SÍ;2. NO
+¿El libro "Cien años de soledad" fue escrito por Gabriel García Márquez?;1. SÍ;2. NO
+¿La película "Titanic" ganó el premio a la Mejor Película en los Premios Óscar?;1. SÍ;2. NO
+¿El premio Nobel de la Paz se otorga en Oslo, Noruega?;1. SÍ;2. NO
+¿El Mona Lisa fue pintado por Vincent van Gogh?;1. SÍ;2. NO

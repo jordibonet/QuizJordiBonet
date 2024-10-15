@@ -1,0 +1,30 @@
+¿En qué año se cree que ocurrió la caída del Imperio Romano de Occidente?;1. 410 d.C.;2. 476 d.C;3. 532 d.C;4. 549 d.C
+¿Quién fue el líder de los normandos que conquistó Inglaterra en 1066?;1. Harold II;2. William el Conquistador;3. Ricardo Corazón de León;4. Eduardo el Confesor
+¿Cuál fue el documento que proclamó la independencia de las colonias americanas en 1776?;1. Declaración de Derechos;2. Carta Magna;3. Declaración de Independencia;4. Constitución de los Estados Unidos
+¿Qué evento marcó el inicio de la Revolución Francesa en 1789?;1. La Bastilla;2. La MArcha de las Mujeres a Versalles;3. La Convención Nacional;4. La Declaración de los Derechos del Hombre y del Ciudadano
+¿Quién fue el emperador romano conocido por su persecución a los cristianos y su supuesto incendio de Roma?;1. Augusto;2. Nerón;3. Calígula;4. Tiberio
+¿En qué año comenzó la Primera Guerra Mundial?;1. 1912\s;2. 1914;3. 1916;4. 1918
+¿Cuál fue la fecha del Día D durante la Segunda Guerra Mundial?;1. 6 de junio de 1942;2. 6 de junio de 1944;3. 6 de junio de 1946;4. 6 de junio de 1948
+¿Cuál fue el nombre del muro que dividía Berlín durante la Guerra Fría?;1. Muro de la Desolación;2. Muro de la Vergüenza;3. Muro de la Libertad;4. Muro de la Separación
+¿Quién financió el viaje de Cristóbal Colón en 1492?;1. Francia;2. España;3. Portugal;4. Inglaterra
+¿Quién lideró la Reforma Protestante en el siglo XVI?;1. Martín Lutero;2. Juan Calvino;3. Enrique VII;4. Tomás de Aquino
+¿En qué año cayó Constantinopla ante los otomanos?;1. 1453;2. 1501;3. 1600;4. 1705
+¿Qué país fue la principal potencia colonizadora de América Latina?;1. Francia;2. Portugal;3. España;4. Inglaterra
+¿Cuál fue la última batalla de la Guerra de Independencia de Estados Unidos?;1. Saratoga;2. Yorktown;3. Lexington y Concord;4. Bunker Hill
+¿Cuál fue el reinado más largo en la historia británica, que abarcó más de 63 años?;1. Reina Isabel I;2. Reina Ana;3. Reina Victoria;4. Reina María I
+¿Quién fue el líder del Imperio Mongol que conquistó la mayor parte de Asia y Europa en el siglo XIII?;1. Genghis Khan;2. Kublai Khan;3. Attila el Huno;4. Tamerlán
+¿En qué país comenzó la Revolución Industrial en el siglo XVIII?;1. Francia;2. Alemania;3. Reino Unido;4. Estados Unidos
+¿Qué país estableció la colonia penal en Australia en 1788?;1. Francia;2. España;3. Portugal;4. Reino Unido
+¿Qué evento llevó a Estados Unidos a entrar en la Segunda Guerra Mundial?;1. Ataque a Pearl Harbor;2. Batalla de Stalingrado;3. Inavsión de Normandía;4. Ataque a Hiroshima
+¿En qué año estalló la Revolución Rusa que llevó al derrocamiento del zar?;1. 1905;2. 1917;3. 1923;4. 1931
+¿En qué año fue conquistada Granada y se completó la Reconquista?;1. 1415;2. 1492;3. 1521;4. 1571
+¿Cuál fue el nombre de los monarcas que llevaron a cabo la unión de Castilla y Aragón en el siglo XV?;1. Isabel I y Fernando II;2. Juana I y Felipe I;3. Carlos I y Juana la Loca;4. Felipe II y María Tudor
+¿Cuánto tiempo duró la Guerra Civil Española?;1. 2 años;2. 3 años;3. 4 años;4. 5 años
+¿Qué monarca español fue conocido como "El Rey Sol" y gobernó durante la época del auge del Imperio Español?;1. Felipe II;2. Carlos I;3. Felipe III;4. Felipe IV
+¿Cuándo se estableció oficialmente la Inquisición Española?;1. Siglo XII;2. Siglo XV;3. Siglo XVI;4. Siglo XVII
+¿Qué tratado puso fin a la Guerra de Sucesión Española en 1713?;1. Tratado de Utrecht;2. Tratado de Ryswick;3. Tratado de Aquisgrán;4. Tratado de Badajoz
+¿La dictadura de Francisco Franco en España concluyó con su muerte en 1975?;1. SÍ;2. NO
+¿La Reconquista fue un proceso que duró varios siglos y culminó en la expulsión de los moros en 1492?;1. SÍ;2. NO
+¿Isabel I y Fernando II fueron conocidos como los Reyes Católicos por su defensa de la libertad religiosa?;1. SÍ;2. NO
+¿El Siglo de Oro español se refiere a un período de decadencia cultural y económica?;1. SÍ;2. NO
+¿La Reconquista fue un proceso que se llevó a cabo en un solo siglo?;1. SÍ;2. NO
